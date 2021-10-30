@@ -1,13 +1,13 @@
 # youtube-downloader
 <p align="center">
 
-<img width="1050" height="200" src="images/one.png">
+<img width="1050" height="400" src="images/one.png">
 
 </p>
 
 <hl>
 <br>
-# Tools
+<h1># Tools <h1>
 <p>
  <br>
 <h2> - faster </h2>
